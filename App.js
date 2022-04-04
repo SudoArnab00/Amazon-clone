@@ -19,9 +19,8 @@ function App() {
          </Route>
 
          <Route path='/Login'>
-           <Header />
+           
            <Login />
-           <Home/>
          </Route>
 
          {/* Default case */}
